@@ -162,3 +162,4 @@ For agentic systems, this is foundational because retrieval, matching, and seman
 	- https://raw.githubusercontent.com/rasbt/LLMs-from-scratch/main/ch02/01_main-chapter-code/the-verdict.txt
 - PyTorch documentation: https://pytorch.org/docs/stable/index.html
 - tiktoken repository: https://github.com/openai/tiktoken
+- AI
